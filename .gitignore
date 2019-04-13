@@ -1,2 +1,5 @@
 /style.css
 /style.css.map
+/dist/css/style.min.css.map
+normal/style/style.css.map
+.gitignore
