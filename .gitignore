@@ -3,3 +3,4 @@
 /dist/css/style.min.css.map
 normal/style/style.css.map
 .gitignore
+/normal/style/style.css
